@@ -34,5 +34,5 @@ jobs:
 
           token: ${{ secrets.AAVA_TOKEN }}
 
-          base-url: "https://aava-qe.aava.ai"
+          base-url: "https://aava-uat.aava.ai"
  
